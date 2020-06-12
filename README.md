@@ -8,5 +8,8 @@ Graduation Project about serial communication between a real world device, a mic
 - Conectar o ESP32 e checar porta serial
 - Rodar o jogo.
 
+Aqui para aprender a fazer bonitinho esse aqui!
+
+https://guides.github.com/features/mastering-markdown/
 
 
